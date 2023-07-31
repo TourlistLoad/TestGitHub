@@ -17,6 +17,9 @@
 - git log --oneline: gọn hơn log.
 - git checkout <mã id>: quay về lại commit có id là mã id.
 - git checkout master: quay về trước đó.
-- :q   để thoát end.
+- :q để thoát end.
 - git branch: xem các branch.
 - git checkout -b <branch name>: tạo branch mới.
+- git checkout <branch name>: trở về branch.
+- git merge <branch name>: gộp với branch master.
+- git branch -d <branch name>: xóa 1 branch.
