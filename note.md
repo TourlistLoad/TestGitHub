@@ -13,3 +13,4 @@
 - git reset: hủy chuẩn bị lưu.
 - git commit: chính thức lưu.
 - git commit -m '<ghi chú>': ghi chú khi lưu.
+- git log: xem những thời điểm đã lưu.
