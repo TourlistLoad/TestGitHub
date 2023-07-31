@@ -1,6 +1,8 @@
 # Terms(Danh từ):
 
-- Repository (repo): là kho, là thư mục dự án
+- Repository (repo): là kho, là thư mục dự án.
+- Branch: cành.
+- Conflict: Xung đột.
 
 # Commands(Câu lệnh):
 
