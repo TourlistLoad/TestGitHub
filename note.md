@@ -14,3 +14,5 @@
 - git commit: chính thức lưu.
 - git commit -m '<ghi chú>': ghi chú khi lưu.
 - git log: xem những thời điểm đã lưu.
+- git log --oneline: gọn hơn log.
+- git checkout <mã id>: quay về lại commit có id là mã id.
